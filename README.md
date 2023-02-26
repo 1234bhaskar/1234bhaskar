@@ -1,13 +1,16 @@
+![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 <h1 align="center">Hi 👋, I'm Bhaskar chand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1234bhaskar" alt="1234bhaskar" /></a> </p>
+<img align="right" width="400" height="350" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" />
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Front end Development**
+
+- 📫 How to reach me bhaskar2021chand@gmail.com
 
 - 💬 Ask me about **Html,Css,Javascript,Tailwind-Css,Node-js,Express,Mongodb,Mongoose,Git,github,React**
 
@@ -21,23 +24,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1234bhaskar&show_icons=true&locale=en&layout=compact" alt="1234bhaskar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1234bhaskar&show_icons=true&locale=en" alt="1234bhaskar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1234bhaskar&" alt="1234bhaskar" /></p>
-
-
-
-
-<img src="{https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966}"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=1234bhaskar&show_icons=true&locale=en" alt="1234bhaskar" /></p>
+<!---
+<p><img align="centre"  src="https://github-readme-streak-stats.herokuapp.com/?user=1234bhaskar&" alt="1234bhaskar" /></p>
+--->
 
 
-- 👋 Hi, I’m Bhaskar /@1234bhaskar
-- 👀 I’m interested in web-development,Html,Css,Tailwind-Css,Scss,Javascript(Es6),Node-js,Express,Api integraion,Reactjs.
-- 🌱 I’m currently learning React,Redux,Backend development,Databases(Mongodb/Mongoose)
-- 💞️ I’m looking to collaborate on anything related to web-developement,frontend,backend,c++,Web Designing(Figma)
-- 📫 How to reach me 
-- Linked-IN linkedin.com/in/bhaskar-chand-35b718226
--Gmail bhaskar2021chand@gmail.com
 <!---
 1234bhaskar/1234bhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
