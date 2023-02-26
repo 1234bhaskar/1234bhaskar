@@ -1,6 +1,6 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 <h1 align="center">Hi 👋, I'm Bhaskar chand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer,undergrad from India</h3>
 
 <img align="right" width="400" height="350" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" />
 
