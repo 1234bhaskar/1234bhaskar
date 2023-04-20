@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Front end Development**
 
-- 📫 How to reach me bhaskar2021chand@gmail.com
+
 
 - 💬 Ask me about **Html,Css,Javascript,Tailwind-Css,Node-js,Express,Mongodb,Mongoose,Git,github,React**
 
